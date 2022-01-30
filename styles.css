@@ -289,7 +289,7 @@ a {
 
 
 /* media query for mobile devices */
-@media only screen and (max-width: 412px) {
+@media all and (max-width: 412px) {
         /* html, body */
     html, body {
         overflow-x:hidden;
