@@ -407,17 +407,15 @@ a {
     .about{
         height: 500px;
         /* background-color: #797373; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
         font-size: 15px;
+        position: relative;
     }
 
     .about-content {
         width: 300px;
         left: 160px;
-        margin: 60px;
         color: white;
+        margin: 0 auto;
     }
 
     .about-title {
@@ -520,12 +518,12 @@ a {
         border-style: none;
         border-radius: 13px;
         cursor: pointer;
-        width: 150px;
+        width: 100%;
         font-size: 10px;
         font-weight:bold;
         height: 50px;
-        margin: 0 auto;
-        float: right;
+        margin-bottom: 2px;
+        display: block;
     }
 
     .work-header {
