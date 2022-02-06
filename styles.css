@@ -284,7 +284,11 @@ a {
     width: 100%;
     color: white;
     height: 100px;
-    background-color: #8f0e0e;
+    background-color: #0D0D0D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
 }
 
 
@@ -576,5 +580,10 @@ a {
     }
 
     
+}
+
+/* media query for desktop */
+@media only screen and (max-width: 1400px) {
+
 }
   
