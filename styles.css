@@ -1,9 +1,15 @@
 /* html, body */
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     background-color: #262626 !important;
     font-family: 'Lato', sans-serif;
 }
+
 
 
 /* navbar */
