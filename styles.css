@@ -84,11 +84,6 @@ a {
     height: 650px;
     left: 730px;
     top: 95px;
-    -webkit-animation: storyset-illustrations 5s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: storyset-illustrations 5s; /* Firefox < 16 */
-     -ms-animation: storyset-illustrations 5s; /* Internet Explorer */
-      -o-animation: storyset-illustrations 5s; /* Opera < 12.1 */
-         animation: storyset-illustrations 5s;
 }
 
 @keyframes storyset-illustrations {
